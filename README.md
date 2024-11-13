@@ -34,7 +34,8 @@ EasyScroller is a simple browser extension that allows you to quickly scroll thr
 5. The extension will be installed, and the icon will appear in your browser’s toolbar.
 
 
-https://github.com/user-attachments/assets/3041a07a-ef25-493b-b72d-0e5cc70c4db1
+https://github.com/user-attachments/assets/91201991-5d04-4c9a-9ca6-32cd09970583
+
 
 ## Usage
 
