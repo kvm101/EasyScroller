@@ -2,6 +2,9 @@
 
 EasyScroller is a simple browser extension that allows you to quickly scroll through web pages using sharp jumps, making navigation faster and more efficient.
 
+![image](https://github.com/user-attachments/assets/51aa0f66-04d0-4b40-b76f-cf4cc1a1c10e)
+
+
 ## Features
 
 - Sharp scrolling through pages using up and down arrows.
